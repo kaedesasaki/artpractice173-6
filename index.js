@@ -2,8 +2,8 @@ class Fox {
 
     constructor(){
       this.name = 'kiki';
-      this.home = 'Star Cloud';
       this.friends = 'lala';
+      this.home = 'Star Cloud';
       this.seeking = 'star';
       this.route = 'blue/stat/road';
      
