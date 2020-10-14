@@ -1,4 +1,4 @@
-class Fox {
+class Puni {
 
     constructor(){
       this.name = 'kiki';
